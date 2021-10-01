@@ -1,0 +1,16 @@
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\bin\Debug\net5.0\DelegateVariant.exe
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\bin\Debug\net5.0\DelegateVariant.deps.json
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\bin\Debug\net5.0\DelegateVariant.runtimeconfig.json
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\bin\Debug\net5.0\DelegateVariant.runtimeconfig.dev.json
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\bin\Debug\net5.0\DelegateVariant.dll
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\bin\Debug\net5.0\ref\DelegateVariant.dll
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\bin\Debug\net5.0\DelegateVariant.pdb
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.csproj.AssemblyReference.cache
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.AssemblyInfo.cs
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.dll
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\ref\DelegateVariant.dll
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.pdb
+C:\Users\Zver\source\repos\Lesson_2\DelegateVariant\obj\Debug\net5.0\DelegateVariant.genruntimeconfig.cache
