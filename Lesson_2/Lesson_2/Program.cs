@@ -3,47 +3,7 @@ using System.Timers;
 
 namespace Lesson_2
 {
-    /* public delegate void MyDelegate();
-     public delegate string MyDel(string s1, string s2);
-
-
-     public delegate void JokeReady(string joke);
-     public class JokeGenerator
-     {
-         public JokeGenerator()
-         {
-             Timer timer = new Timer(500);
-             timer.Start();
-             timer.Elapsed += Timer_Elapsed;
-         }
-
-         private void Timer_Elapsed(object sender, ElapsedEventArgs e)
-         {
-
-         }
-         public JokeGenerator(string joke)
-         {
-
-         }
-         private int index = -1;
-
-         private string[] jokes = new string[]
-         {
-             @"Hello World"
-         };
-     }
-
-     public class GenClass<T>
-     {
-         static void Print()
-         {
-             Console.WriteLine("Hello");
-         }
-     }
-
- */
-
-
+ 
     public delegate void CheckIvent(string s);
     public delegate void WriteУEvent(string s);
     public delegate void PrintDelegateStr();
@@ -77,28 +37,6 @@ namespace Lesson_2
 
             
             Process.Run();
-
-
-
-
-
-
-
-            //string s = null;
-            //MyDelegate myDelegateInstance = delegate { Console.WriteLine("Hello"); };
-            //MyDel myDel = delegate (string s1, string s2) { return s1 + s2; };
-            //myDelegateInstance();
-            //s = myDel("Hello", " World");
-            //Console.WriteLine(s);
-
-            //Console.ReadKey();
-
-
-            //   var j1 = new JokeGenerator();
-            //  j1 = new object();
-
-
-
 
 
         }
