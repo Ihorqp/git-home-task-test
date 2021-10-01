@@ -1,0 +1,16 @@
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\bin\Debug\net5.0\ActFunkPred.exe
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\bin\Debug\net5.0\ActFunkPred.deps.json
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\bin\Debug\net5.0\ActFunkPred.runtimeconfig.json
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\bin\Debug\net5.0\ActFunkPred.runtimeconfig.dev.json
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\bin\Debug\net5.0\ActFunkPred.dll
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\bin\Debug\net5.0\ref\ActFunkPred.dll
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\bin\Debug\net5.0\ActFunkPred.pdb
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.csproj.AssemblyReference.cache
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.AssemblyInfo.cs
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.dll
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ref\ActFunkPred.dll
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.pdb
+C:\Users\Zver\source\repos\Lesson_2\ActFunkPred\obj\Debug\net5.0\ActFunkPred.genruntimeconfig.cache
